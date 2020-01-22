@@ -36,15 +36,49 @@
 .statement blockquote, p{
     text-align: center;
 }
+.img-thumbnail{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
 .mb-0{
     font-size: 11pt;
     color: #5F5F5F;
+    line-height: 12pt;
 }
 .h2{
     font-weight: bold;
     font-size: 18pt;
 }
-.method-img{
+.h1-lead{
+    font-size: 18pt;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.lead{
+    font-size: 11pt;
+    padding: 10px 160px;
+    line-height: 12pt;
+    margin-bottom: 40px;
+}
+.method{
     width: 100%;
+}
+.method-img{
+    width: 110%;
     height: 450px;
+}
+.img-service{
+    padding-left: 30px;
+}
+.content-title{
+    text-align: center;
+    font-size: 14pt;
+    color: #2B720C;
+    margin: 10px;
+    font-weight: bold;
+}
+.content-p{
+    text-align: center;
+    font-size: 11pt;
+    line-height: 12pt;
 }
